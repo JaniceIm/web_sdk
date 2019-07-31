@@ -157,7 +157,7 @@ _adjust.trackEvent(_eventConfig, function (result) {
 });
 ```
 
-[특별 파트너 가이드][special-partners] 에서 특별 파트너와 연동 방법에 대한 자세한 내용을 알아보실 수 있습니다.
+[모듈 파트너 가이드][special-partners] 에서  파트너와 연동 방법에 대한 자세한 내용을 알아보실 수 있습니다.
 
 ## <a id="license"></a>라이센스
 
@@ -187,6 +187,6 @@ Copyright (c) 2018 Adjust GmbH, http://www.adjust.com
 [dashboard]:    http://adjust.com
 [example-app]:  index.js
 
-[callbacks-guide]:      https://docs.adjust.com/en/callbacks
+[callbacks-guide]:      https://docs.adjust.com/ko/callbacks/
 [special-partners]:     https://docs.adjust.com/en/special-partners
-[currency-conversion]:  https://docs.adjust.com/en/event-tracking/#tracking-purchases-in-different-currencies
+[currency-conversion]:  https://docs.adjust.com/ko/event-tracking/#part-5
